@@ -366,7 +366,7 @@ body {
 }
 
 .clients-link:hover,
-.clients-link :focus {
+.clients-link:focus {
   fill: var(--blue-text-color-);
   border-color: var(--blue-text-color-);
 }
